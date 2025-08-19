@@ -1,0 +1,2 @@
+# simple-stock-website-system
+Sistem ini adalah aplikasi web barang sederhana berbasis PHP dan MySQL untuk mengelola inventaris atau stok barang. Aplikasi ini menyediakan fitur dasar untuk mencatat barang masuk, barang keluar, dan melihat status stok barang secara real-time. Tampilan antarmuka pengguna dibangun menggunakan template SB Admin dengan Bootstrap.
